@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <g data-name="Group 2231" transform="translate(-652.193 -5731.926)">
+        <circle data-name="Ellipse 140" cx="40" cy="40" r="40" transform="translate(652.193 5731.926)" style="fill:#fff"/>
+        <g data-name="Survey icon" transform="translate(662.193 5743.117)">
+            <circle data-name="Ellipse 273" cx="13.077" cy="13.077" r="13.077" transform="translate(23.846 17.882)" style="fill:#f47e54"/>
+            <path data-name="Path 2591" d="M41.161 41.375a.577.577 0 0 1-.435-.2l-3.54-4.045a.577.577 0 0 1 .868-.761l3.075 3.515 8-10.456a.577.577 0 1 1 .916.7l-8.426 11.021a.575.575 0 0 1-.439.226z" transform="translate(-6.241 -5.477)" style="fill:#010101"/>
+            <circle data-name="Ellipse 274" cx="8.846" cy="8.846" r="8.846" transform="translate(10 29.415)" style="opacity:.4;isolation:isolate;fill:#f47e54"/>
+            <g data-name="Group 2230">
+                <path data-name="Path 2592" d="M23.332 50.33a.574.574 0 0 1-.408-.169l-5.5-5.5a.577.577 0 0 1 .815-.816l5.5 5.5a.577.577 0 0 1-.408.985z" transform="translate(-1.675 -8.816)" style="fill:#010101"/>
+                <path data-name="Path 2593" d="M17.834 50.33a.577.577 0 0 1-.408-.985l5.5-5.5a.577.577 0 0 1 .816.816l-5.5 5.5a.572.572 0 0 1-.408.169z" transform="translate(-1.675 -8.816)" style="fill:#010101"/>
+            </g>
+            <path data-name="Path 2594" d="M43.1 14.455H22.327a.577.577 0 0 1-.408-.985l6.027-6.028a6.748 6.748 0 0 1 9.531 0l6.023 6.029a.577.577 0 0 1-.408.985zM23.72 13.3H41.7l-5.038-5.041a5.592 5.592 0 0 0-7.9 0z" transform="translate(-2.712)" style="fill:#010101"/>
+            <path data-name="Path 2595" d="M46.45 53.342H14.588A2.341 2.341 0 0 1 12.25 51V12.988a2.341 2.341 0 0 1 2.338-2.338h9.392v1.15h-9.392a1.186 1.186 0 0 0-1.188 1.188V51a1.186 1.186 0 0 0 1.185 1.185H46.45A1.185 1.185 0 0 0 47.635 51V12.988A1.186 1.186 0 0 0 46.45 11.8h-9.392v-1.15h9.392a2.341 2.341 0 0 1 2.338 2.338V51a2.34 2.34 0 0 1-2.338 2.342z" transform="translate(-.519 -1.195)" style="fill:#010101"/>
+        </g>
+    </g>
+</svg>

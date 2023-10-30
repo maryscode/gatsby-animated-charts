@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+   <filter id='noiseFilter'>
+    <feTurbulence 
+      type='fractalNoise' 
+      baseFrequency='.75' 
+      numOctaves='3' 
+      stitchTiles='stitch' />
+  </filter>
+    <defs>
+        <radialGradient id="w8pz2qzqza" cx=".5" cy=".5" r=".527" gradientTransform="matrix(1 0 0 .948 0 .026)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff7f51"/>
+            <stop offset=".488" stop-color="#fcc454"/>
+            <stop offset="1" stop-color="#fcc454" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <path data-name="Rectangle 17" style="opacity:.5;fill:url(#w8pz2qzqza)" filter="url(#noiseFilter)" d="M0 0h1000v1000H0z"/>
+</svg>

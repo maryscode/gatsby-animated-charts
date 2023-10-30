@@ -1,0 +1,27 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^azurewebsites.net [NC,OR]
+RewriteCond %{HTTP_HOST} ^rethinkbronchiectasis.com [NC]
+RewriteRule ^(.*)$ https://www.rethinkbronchiectasis.com/$1 [L,R=301]
+
+# Security Headers
+Header set X-XSS-Protection "1; mode=block"
+Header always append X-Frame-Options SAMEORIGIN
+Header set X-Content-Type-Options nosniff
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains;"
+Header always set Referrer-Policy: strict-origin
+Header always set Permissions-Policy: fullscreen=()
+
+RewriteCond %{QUERY_STRING} ^utm_source=linkedin%20ad%20vanity%20url%20wbc%20evening%20event&utm_medium=text%20link&utm_content=linkedin%20ad%20vanity%20url%20wbc%20evening%20event&utm_campaign=dsa%20bronchiectasis$ [NC]
+RewriteRule ^Symposium$ https://na.eventscloud.com/ereg/index.php?eventid=746434 [R=301,L]
+
+RewriteCond %{QUERY_STRING} ^utm_source=linkedin%20ad%20vanity%20url%20wbc%20evening%20event&utm_medium=text%20link&utm_content=linkedin%20ad%20vanity%20url%20wbc%20evening%20event&utm_campaign=dsa%20bronchiectasis$ [NC]
+RewriteRule ^WBCsymposium$ https://na.eventscloud.com/ereg/index.php?eventid=746434 [R=301,L]
+
+RedirectMatch 301 ^/ATS2023/?$ /
+RedirectMatch 301 ^/ats2023/?$ /
+
+# Redirect case insensitive chest2023 to CHEST2023
+RedirectMatch 301 ^/chest2023?$ /CHEST2023/
+
+ErrorDocument 404 /page-not-found/
+ErrorDocument 500 /internal-server-error/

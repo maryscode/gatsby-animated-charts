@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="58" viewBox="0 0 292 58">
+    <g data-name="Group 1719">
+        <text data-name="Number of exacerbations:" transform="translate(0 16)" style="font-size:16px;font-family:NunitoSans-Bold,Nunito Sans;font-weight:700"><tspan x="0" y="0">Number of exacerbations:</tspan></text>
+        <g data-name="Group 1621" transform="translate(9569 14532)">
+            <text data-name="0" transform="translate(-9535 -14480)" style="font-size:18px;font-family:NunitoSans-Regular,Nunito Sans"><tspan x="0" y="0">0</tspan></text>
+            <circle data-name="Ellipse 223" cx="11" cy="11" r="11" transform="translate(-9569 -14497)" style="fill:#fcc454"/>
+        </g>
+        <g data-name="Group 1622" transform="translate(9574 14532)">
+            <text data-name="1" transform="translate(-9461 -14480)" style="font-size:18px;font-family:NunitoSans-Regular,Nunito Sans"><tspan x="0" y="0">1</tspan></text>
+            <circle data-name="Ellipse 224" cx="11" cy="11" r="11" transform="translate(-9495 -14497)" style="fill:#ff7f51"/>
+        </g>
+        <g data-name="Group 1623" transform="translate(9578 14532)">
+            <text data-name="2" transform="translate(-9387 -14480)" style="font-size:18px;font-family:NunitoSans-Regular,Nunito Sans"><tspan x="0" y="0">2</tspan></text>
+            <circle data-name="Ellipse 225" cx="11" cy="11" r="11" transform="translate(-9421 -14497)" style="fill:#b83b4d"/>
+        </g>
+        <g data-name="Group 1624" transform="translate(9583 14532)">
+            <text data-name="≥3" transform="translate(-9313 -14480)" style="font-size:18px;font-family:NunitoSans-Regular,Nunito Sans"><tspan x="0" y="0">≥3</tspan></text>
+            <circle data-name="Ellipse 226" cx="11" cy="11" r="11" transform="translate(-9347 -14497)" style="fill:#750010"/>
+        </g>
+    </g>
+</svg>
