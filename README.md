@@ -1,5 +1,5 @@
 <h1 align="center">
-  AREA 23 GatsbyJS Framework
+  GatsbyJS Framework
 </h1>
 
 ## 🚀 Quick start
